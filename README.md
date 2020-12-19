@@ -1,8 +1,10 @@
-#Avon Shop
-#Ideal Idea = "One person/admin or owner of the shop can only add products to his/her online shop
+# Avon Shop
+# Ideal Idea = "One person/admin or owner of the shop can only add products to his/her online shop
 and other visitors can go through the products and add those products to their cart and purchase them
-#Implemented portion = Currently anyone logged in , can add products to the database
-#And they can edit, delete those products from the product database
+# Implemented portion = Currently anyone logged in , can add products to the database
+# And they can edit, delete those products from the product database
+
+# Any one can create register and can add product to the database.
 
 Future tasks :: other users can only add their desired products to cart
 
