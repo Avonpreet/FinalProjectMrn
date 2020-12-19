@@ -11,4 +11,4 @@
 
 # Pictures stored in google drive and the ids of those pictures stored in the product resource in the backend
 
-# 
+I worked alone for this project.
